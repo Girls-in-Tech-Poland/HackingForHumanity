@@ -48,3 +48,14 @@ In order to obtain your promo code, please contact your mentors.
 > - Łukasz Kałuny
 > - Adam Marczak
 > - Maciej Misztal
+
+## Challenges
+
+### Challenge5
+
+Challenge 5 involves using the Parking data, courtesy of Skanska in order to deliver an app for finding alternative transportation to the working space in the city.
+
+The data provided by Skanska, can be found [here](https://github.com/Girls-in-Tech-Poland/HackingForHumanity/tree/master/data/skanska)
+
+
+Good Luck
